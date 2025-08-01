@@ -1,5 +1,6 @@
 # byte_runner
-a learning game I made to learn the fundamentals of the MonoGame Framework
+a learning platformer game I made to learn the fundamentals of the MonoGame Framework
+with basic platform block collisions and gravity and jumping and with no jumping cooldowns
 
 
 # Game Movement
